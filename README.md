@@ -15,7 +15,7 @@ In modern mobile applications, performing data synchronization and notifying use
 Medium Article
 
 You can find the step-by-step technical guide and architectural details in my Medium article:
-👉 [Insert Link to Your Medium Article Here]
+👉 [https://semihcelikol.medium.com/sending-push-notifications-without-firebase-background-sync-with-workmanager-in-flutter-0ca1e4907cc5?sk=fba30019ecc3120ba8fc3ce96d86c4b2]
 Technical Details
 
     Platform: iOS 14.0+, Android
@@ -33,3 +33,7 @@ Technical Details
         Managing headless isolate plugin registration on iOS via AppDelegate.
 
         Handling native notification permissions and configurations (Info.plist).
+
+Contributing
+
+This is an educational reference project. You are welcome to submit pull requests for bug fixes or feature improvements.
